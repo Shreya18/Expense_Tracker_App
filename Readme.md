@@ -82,7 +82,7 @@ A Django-based expense tracker application that allows users to track their expe
 ## Project Structure
 
 ```plaintext
-expense_tracker/
+expense_tracker_app/
 ├── expense_tracker/
 │   ├── __init__.py
 │   ├── settings.py
